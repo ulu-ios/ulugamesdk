@@ -1,3 +1,9 @@
+## 2.2.9
+
+
+修复 uluGameSDK 和 uluVersionUpdater资源找不到问题
+
+
 ## 2.2.8
 
 
